@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Outer stroked circle: Radius 24 (+ padding for stroke = 27 actual). Centered at 54,54. -->
+    <path
+        android:strokeColor="#8B7CF6"
+        android:strokeWidth="6"
+        android:pathData="M 54 30 A 24 24 0 1 1 54 78 A 24 24 0 1 1 54 30 Z" />
+    
+    <!-- Inner solid circle: Radius 8. Centered at 54,54. -->
+    <path
+        android:fillColor="#8B7CF6"
+        android:pathData="M 54 46 A 8 8 0 1 1 54 62 A 8 8 0 1 1 54 46 Z" />
+</vector>

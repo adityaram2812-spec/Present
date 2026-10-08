@@ -1,0 +1,16 @@
+# Secrets
+.env
+
+# Dependencies
+node_modules/
+
+# Logs
+*.log
+
+# Generated test/debug output
+error.txt
+models.txt
+models_full.json
+push_output.txt
+jest_open_handles*.txt
+test_*.txt

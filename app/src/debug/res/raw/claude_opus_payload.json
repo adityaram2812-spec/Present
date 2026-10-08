@@ -1,0 +1,325 @@
+{
+    "division": "Div-A",
+    "groups_found": [
+        "A",
+        "B",
+        "C"
+    ],
+    "classes": [
+        {
+            "day": "Monday",
+            "startTime": "9:00",
+            "endTime": "10:00",
+            "subject": "CM",
+            "teacher": "/TN",
+            "room": "311",
+            "group": "shared"
+        },
+        {
+            "day": "Monday",
+            "startTime": "10:00",
+            "endTime": "11:00",
+            "subject": "DSGT",
+            "teacher": "/MP",
+            "room": "311",
+            "group": "shared"
+        },
+        {
+            "day": "Monday",
+            "startTime": "14:00",
+            "endTime": "15:00",
+            "subject": "POA",
+            "teacher": "NF",
+            "room": "308",
+            "group": "shared"
+        },
+        {
+            "day": "Monday",
+            "startTime": "15:00",
+            "endTime": "16:00",
+            "subject": "OS",
+            "teacher": "PMM",
+            "room": "308",
+            "group": "shared"
+        },
+        {
+            "day": "Tuesday",
+            "startTime": "9:00",
+            "endTime": "10:00",
+            "subject": "AJ",
+            "teacher": "/KS",
+            "room": "311",
+            "group": "shared"
+        },
+        {
+            "day": "Tuesday",
+            "startTime": "10:00",
+            "endTime": "11:00",
+            "subject": "OS",
+            "teacher": "PMM",
+            "room": "311",
+            "group": "shared"
+        },
+        {
+            "day": "Tuesday",
+            "startTime": "14:00",
+            "endTime": "15:00",
+            "subject": "POA",
+            "teacher": "NF",
+            "room": "308",
+            "group": "shared"
+        },
+        {
+            "day": "Tuesday",
+            "startTime": "15:00",
+            "endTime": "16:00",
+            "subject": "ADS",
+            "teacher": "/PK",
+            "room": "308",
+            "group": "shared"
+        },
+        {
+            "day": "Wednesday",
+            "startTime": "9:00",
+            "endTime": "10:00",
+            "subject": "ADS",
+            "teacher": "/PK",
+            "room": "311",
+            "group": "shared"
+        },
+        {
+            "day": "Wednesday",
+            "startTime": "10:00",
+            "endTime": "11:00",
+            "subject": "DSGT",
+            "teacher": "/MP",
+            "room": "311",
+            "group": "shared"
+        },
+        {
+            "day": "Wednesday",
+            "startTime": "14:00",
+            "endTime": "15:00",
+            "subject": "CM",
+            "teacher": "/TN",
+            "room": "308",
+            "group": "shared"
+        },
+        {
+            "day": "Wednesday",
+            "startTime": "15:00",
+            "endTime": "16:00",
+            "subject": "POA",
+            "teacher": "NF",
+            "room": "308",
+            "group": "shared"
+        },
+        {
+            "day": "Wednesday",
+            "startTime": "16:00",
+            "endTime": "17:00",
+            "subject": "AJ",
+            "teacher": "/KS",
+            "room": "308",
+            "group": "shared"
+        },
+        {
+            "day": "Thursday",
+            "startTime": "9:00",
+            "endTime": "10:00",
+            "subject": "DSGT",
+            "teacher": "/MP",
+            "room": "311",
+            "group": "shared"
+        },
+        {
+            "day": "Thursday",
+            "startTime": "10:00",
+            "endTime": "11:00",
+            "subject": "CM",
+            "teacher": "/TN",
+            "room": "311",
+            "group": "shared"
+        },
+        {
+            "day": "Friday",
+            "startTime": "9:00",
+            "endTime": "10:00",
+            "subject": "OS",
+            "teacher": "PMM",
+            "room": "311",
+            "group": "shared"
+        },
+        {
+            "day": "Friday",
+            "startTime": "10:00",
+            "endTime": "11:00",
+            "subject": "ADS",
+            "teacher": "/PK",
+            "room": "311",
+            "group": "shared"
+        },
+        {
+            "day": "Monday",
+            "startTime": "11:20",
+            "endTime": "13:20",
+            "subject": "ADS Lab",
+            "teacher": "/PK",
+            "room": "301",
+            "group": "A"
+        },
+        {
+            "day": "Monday",
+            "startTime": "11:20",
+            "endTime": "13:20",
+            "subject": "OS Lab",
+            "teacher": "PMM",
+            "room": "303",
+            "group": "B"
+        },
+        {
+            "day": "Monday",
+            "startTime": "11:20",
+            "endTime": "13:20",
+            "subject": "AJ Lab",
+            "teacher": "/KS",
+            "room": "306",
+            "group": "C"
+        },
+        {
+            "day": "Tuesday",
+            "startTime": "11:20",
+            "endTime": "13:20",
+            "subject": "ED Lab",
+            "teacher": "/AJS",
+            "room": "302",
+            "group": "A"
+        },
+        {
+            "day": "Tuesday",
+            "startTime": "11:20",
+            "endTime": "13:20",
+            "subject": "EVS Lab",
+            "teacher": "AS",
+            "room": "303",
+            "group": "B"
+        },
+        {
+            "day": "Tuesday",
+            "startTime": "11:20",
+            "endTime": "13:20",
+            "subject": "ADS Lab",
+            "teacher": "/PK",
+            "room": "301",
+            "group": "C"
+        },
+        {
+            "day": "Wednesday",
+            "startTime": "11:20",
+            "endTime": "13:20",
+            "subject": "OS Lab",
+            "teacher": "PMM",
+            "room": "303",
+            "group": "A"
+        },
+        {
+            "day": "Wednesday",
+            "startTime": "11:20",
+            "endTime": "13:20",
+            "subject": "AJ Lab",
+            "teacher": "/KS",
+            "room": "306",
+            "group": "B"
+        },
+        {
+            "day": "Wednesday",
+            "startTime": "11:20",
+            "endTime": "13:20",
+            "subject": "ED Lab",
+            "teacher": "/AJS",
+            "room": "301",
+            "group": "C"
+        },
+        {
+            "day": "Thursday",
+            "startTime": "11:20",
+            "endTime": "13:20",
+            "subject": "EVS Lab",
+            "teacher": "AS",
+            "room": "306",
+            "group": "A"
+        },
+        {
+            "day": "Thursday",
+            "startTime": "11:20",
+            "endTime": "13:20",
+            "subject": "ADS Lab",
+            "teacher": "/PK",
+            "room": "301",
+            "group": "B"
+        },
+        {
+            "day": "Thursday",
+            "startTime": "11:20",
+            "endTime": "13:20",
+            "subject": "OS Lab",
+            "teacher": "PMM",
+            "room": "303",
+            "group": "C"
+        },
+        {
+            "day": "Friday",
+            "startTime": "11:20",
+            "endTime": "13:20",
+            "subject": "AJ Lab",
+            "teacher": "/KS",
+            "room": "306",
+            "group": "A"
+        },
+        {
+            "day": "Friday",
+            "startTime": "11:20",
+            "endTime": "13:20",
+            "subject": "ED Lab",
+            "teacher": "/AJS",
+            "room": "301",
+            "group": "B"
+        },
+        {
+            "day": "Friday",
+            "startTime": "11:20",
+            "endTime": "13:20",
+            "subject": "EVS Lab",
+            "teacher": "DrGB",
+            "room": "303",
+            "group": "C"
+        },
+        {
+            "day": "Friday",
+            "startTime": "14:00",
+            "endTime": "16:00",
+            "subject": "MinP",
+            "teacher": "DrRM",
+            "room": "301",
+            "group": "A"
+        },
+        {
+            "day": "Friday",
+            "startTime": "14:00",
+            "endTime": "16:00",
+            "subject": "MinP",
+            "teacher": "DrPR",
+            "room": "302",
+            "group": "B"
+        },
+        {
+            "day": "Friday",
+            "startTime": "14:00",
+            "endTime": "16:00",
+            "subject": "MinP",
+            "teacher": "DrGB",
+            "room": "303",
+            "group": "C"
+        }
+    ]
+}

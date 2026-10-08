@@ -1,0 +1,65 @@
+# ===== Android / Gradle =====
+.gradle/
+build/
+**/build/
+*.apk
+*.aab
+
+# ===== IDE =====
+.idea/
+.vscode/
+*.iml
+
+# ===== Configuration & Secrets =====
+local.properties
+**/local.properties
+.env
+**/.env
+google-services.json
+**/google-services.json
+google-services.json.bak
+
+# ===== Java / Kotlin generated =====
+*.class
+.kotlin/
+
+# ===== Local JDK / Gradle distributions =====
+jdk/
+jdk-bin/
+jdk.zip
+gradle-bin/
+gradle.zip
+
+# ===== Native build =====
+.cxx/
+.externalNativeBuild/
+
+# ===== Logs / diagnostics =====
+*.log
+*.txt
+
+# ===== Temporary / backup =====
+_backup*/
+*_backup*/
+captures/
+
+# ===== Brag / Hyperframes generated output =====
+brag-output*/
+renders/
+
+# ===== AI tooling =====
+.agents/
+
+# ===== Archives =====
+*.zip
+
+# ===== OS =====
+.DS_Store
+Thumbs.db
+
+# ===== Local development / diagnostic artifacts =====
+TestReg.java
+dump_log.bat
+extractor.bat
+manrope_files.json
+run_diag.bat

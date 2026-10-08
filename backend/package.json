@@ -1,0 +1,21 @@
+{
+    "name": "present-backend",
+    "version": "1.0.0",
+    "description": "Standalone Gemini Vision backend for parsing timetables.",
+    "main": "index.js",
+    "type": "module",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "dependencies": {
+        "@google/genai": "^2.0.0",
+        "dotenv": "^16.4.7",
+        "express": "^4.21.2",
+        "firebase-admin": "^14.4.0",
+        "multer": "^1.4.5-lts.1"
+    },
+    "devDependencies": {
+        "jest": "^30.5.2",
+        "supertest": "^7.3.0"
+    }
+}
